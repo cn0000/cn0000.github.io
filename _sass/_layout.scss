@@ -10,8 +10,43 @@
     position: relative;
 }
 * {
-    background-color: blue;
-}
+  background-color: #D3D3D3; }
+
+/* ACTUAL LETTER FORMATING DIV*/
+.major-letters {
+  text-align: center; }
+
+.major-letters h2 {
+  color: #cdc06f;
+  border: 2px solid #bfbfbf;
+  font-family: Arial Black, Gadget;
+  border-radius: 25px; }
+
+.major-letters ul {
+  display: block;
+  color: #000066;
+  font-family: Palatino Linotype , Book Antiqua, Palatino, serif; }
+
+/* LINKS FOR A-Z SEARCH */
+.letters-search a:link {
+  color: #928d6a; }
+
+.letters-search a:visited {
+  color: #514e39; }
+
+.letters-search a:hover {
+  color: #cdc06f; }
+
+.letters-search {
+  display: inline-block;
+  clear: both;
+  overflow: hidden;
+  white-space: nowrap;
+  border-bottom: 3px solid #bebebe;
+  padding: 4px; }
+
+ul {
+  list-style-type: none; }
 .site-title {
     font-size: 26px;
     font-weight: 300;
