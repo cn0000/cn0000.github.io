@@ -66,12 +66,12 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #2a7ae2;
+  color: #928d6a;
   text-decoration: none; }
   a:visited {
-    color: #1756a9; }
+    color: #514e39; }
   a:hover {
-    color: #111;
+    color: #cdc06f;
     text-decoration: underline; }
 
 /**
@@ -153,10 +153,21 @@ pre {
   min-height: 56px;
   position: relative; }
 
+/* name of the class in the main class page style */
+.class-name {
+  color: #cdc06f;
+  border: 2px solid #bfbfbf;
+  font-family: Arial Black, Gadget;
+  border-radius: 25px;
+  text-align: center; }
+
+.wrapper {
+  text-align: center; }
+
 * {
   background-color: #D3D3D3; }
 
-/* ACTUAL LETTER FORMATING DIV*/
+/* ACTUAL LETTER FORMATING DIV home page*/
 .major-letters {
   text-align: center; }
 
