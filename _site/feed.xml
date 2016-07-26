@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
+    <title>GT practice tests, quizzes and homework</title>
+    <description>Find practice tests, homework, quizzes, and solutions here.</description>
     <link>http://tech-fileshare.com/</link>
     <atom:link href="http://tech-fileshare.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 26 Jul 2016 15:33:32 -0400</pubDate>
-    <lastBuildDate>Tue, 26 Jul 2016 15:33:32 -0400</lastBuildDate>
+    <pubDate>Tue, 26 Jul 2016 18:20:32 -0400</pubDate>
+    <lastBuildDate>Tue, 26 Jul 2016 18:20:32 -0400</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>

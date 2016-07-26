@@ -2,9 +2,12 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    border: 5px solid #bfbfbf;
+   // border-bottom: 1px solid #bfbfbf;
     min-height: 56px;
+    color:#000066 ; 
+
+
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -24,7 +27,13 @@
 
   
 * {
-  background-color: #D3D3D3; }
+  background-color: #D3D3D3; 
+  color: #000066;}
+
+  .tit {
+    border : 2px solid #bfbfbf;
+    border-radius: 25px;
+  }
 
 /* ACTUAL LETTER FORMATING DIV home page*/
 .major-letters {
@@ -62,7 +71,7 @@
 ul {
   list-style-type: none; }
 .site-title {
-    font-size: 26px;
+    font-size: 20px;
     font-weight: 300;
     line-height: 56px;
     letter-spacing: -1px;
@@ -71,7 +80,7 @@ ul {
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: #514e39;
     }
 }
 
@@ -149,8 +158,11 @@ ul {
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    border: 5px solid #bfbfbf;
+    min-height: 56px;
+    color:#000066 ; 
     padding: $spacing-unit 0;
+    border-radius: 10px;
 }
 
 .footer-heading {
@@ -223,7 +235,8 @@ ul {
 }
 
 .page-heading {
-    font-size: 20px;
+    font-size: 26px;
+    font-family:  Palatino Linotype , Book Antiqua, Palatino, serif; 
 }
 
 .post-list {
