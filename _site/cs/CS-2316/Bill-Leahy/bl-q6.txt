@@ -1,0 +1,38 @@
+CS2316 Fall 2015 Practice Quiz 6
+
+1. 	Write a class Triangle. You may assume that you already have the
+   	Point Class.
+
+   	Make sure your class has an initializer method as well as a string
+   	method, a representation method and an equals method. For each of
+   	these methods include a comment as to what the method does and when
+   	it will be invoked.
+
+	Your Triangle Class will have as attributes the 3 corners of the
+	Triangle.
+
+	Write a method that will calculate and return the perimeter of the
+	Triangle.
+
+	Also write a method that will calculate and return the area of the
+	Triangle. For the area use this formula (Assume the three vertices
+	are a, b and c so that ax will represent the x coordinate of point a
+	and ay will represent the y coordinate of point a.
+
+	Area = abs(   ( ax(by-cy) + bx(cy-ay) + cx(ay-by) ) / 2.)
+
+	The Triangle Class will also have its own Turtle which will be
+	created by the initializer.
+
+	Implement a method called drawMe which will move the Turtle to point
+	a with the pen up then put the pen down and go to point b then to
+	point c and then back to point a. Then it should put the pen up.
+
+2. 	What are the three "pillars" of recursion?
+
+
+3. 	Write a recursive function called evens that will be passed a list
+	of ints. The function will return how many of the ints are even.
+
+	Example: evens([4, 7, 1, 5, 6, 3, 22, 7]) will return 3
+

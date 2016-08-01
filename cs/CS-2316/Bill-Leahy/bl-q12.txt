@@ -1,0 +1,37 @@
+CS2316 Fall 2015 Practice Quiz 12
+
+1P. Write an SQL statement that will change the Price of the item with
+    ID = 67 to 11.00 The table is named products.
+
+
+   
+2P. Write an SQL statement that will delete item ID=44. Table is
+    inventory.
+
+
+
+3P. Write a function that will insert a new record into a table called
+    Flights. The function will take in Airline, Date, DepartureCity,
+    DepartureTime, ArrivalCity, ArrivalTime zip as parameters (strings).
+    It will insert these data items into fields named: AL, DATE, DC, DT,
+    AC, AT.
+
+
+   
+4P. You have a table called Sales. Each record has a Sales Person ID
+    (spid), a product code (pc), and an amount (amt). Write a function
+    that will take in a Sales Person ID. It will query the table and
+    extract the info for that sales person and print a list of total
+    sales by product code. Example output:
+    
+    SPID: 27
+    Product Code  	Sales
+    9				23.00
+    14				34.00
+    x12				99.00
+    
+    
+    
+
+
+

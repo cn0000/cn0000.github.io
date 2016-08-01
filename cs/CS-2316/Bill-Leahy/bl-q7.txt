@@ -1,0 +1,23 @@
+CS2316 Fall 2015 Practice Quiz 7
+
+1P. Review the glossarys in Chapters 15 & 16 of How to Think Like a
+    Computer Scientist
+
+
+
+
+2P. If you are asked to write a function in Python that will take in two
+    numbers as parameters and calculate their sum, would you:
+
+	a. Have the function print the result?
+	b. Have the function return the result?
+	c. Have the function print and return the result?
+	d. Have the function neither return nor print the result?
+
+
+3P. Do you like Object-Oriented Programming? Why?
+
+
+   
+
+

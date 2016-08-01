@@ -1,0 +1,19 @@
+CS2316 Fall 2015 Practice Quiz 10
+
+1. Write a function that will take in as an argument a URL. The function
+will read the URL into memory and then see if it contains the phone
+number of the White House: 202-456-1111 (in exactly that format).
+It should return True or False. Don't use regular expressions.
+
+
+
+2. Write a function that will take in a URL and a search string. The
+function will open the URL, read it into memory and then search for the
+search string. For each occurence found it will print from about 20
+characters before the location until about 20 characters after the end
+of the search string that was found. If there are not 20 characters
+before then just start at the beginning of the text. Likewise if there
+are not 20 characters after the end of the search term just print until
+the end of the text. Don't use regular expressions.
+
+

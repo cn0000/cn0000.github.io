@@ -1,0 +1,33 @@
+CS2316 Fall 2015 Practice Quiz 5
+
+1. Look at this csv data. What would this data look like if read into Excel?
+
+Coordinate,X,Y,"Z, datum"
+"1,BM",47,12,78
+2,22,13,67
+3,33,15,76
+4,19,23,67
+5,46,9,55
+
+2. What would the data look like if read with the Python CSV module
+and returned as a list of lists?
+
+3. Write a function to read in the data given the filename. It should
+return the data as a list of lists.
+
+4. You have a file of grades for a class. The first row has what each
+assignment was (i.e. HW01, QUIZ03). Each student in the class has a row.
+Each assignment has a column. Write a function that will be given a
+filename. The function will read in the data using the CSV module.
+
+The function will examine the first row and for each column whose header
+starts with the letter 'Q' it will calculate the average of values in
+that column and then print it to the screen. Then for each row of the
+data it will calculate the students average for all items in columns
+that start with 'Q'. It will calulate this average normally and also
+with the lowest quiz dropped. It will print out two values per student.
+
+
+
+
+

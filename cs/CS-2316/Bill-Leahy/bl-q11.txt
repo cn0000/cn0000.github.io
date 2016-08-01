@@ -1,0 +1,31 @@
+CS2316 Fall 2015 Practice Quiz 11
+
+Write regular expressions to match:
+
+1. A date in this form: 03-Aug-2015
+   Note: It could be any date. The one given is just an example.
+
+2. An email address
+   One or more words or letters separated by periods, the @ sign,
+   One or more words separated by periods.
+   
+   Note: This is valid:
+   
+   mary.lamb@sheep.com
+   
+   This is not:
+   
+   mary.lamb.@sheep.com
+   
+   The portions on either side of the @ must begin and end with numbers
+   of letters.
+	
+3. Which of the following input does not match this regular expression
+   entirely: [A-Z]A*\.[0-9.]{3}
+
+		A. PAAA.9.9
+		B. A..12
+		C. AZ.987
+		D. XA.124
+		E. None of the above
+		

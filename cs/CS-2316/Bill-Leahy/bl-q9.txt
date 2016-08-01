@@ -1,0 +1,55 @@
+CS2316 Fall 2015 Practice Quiz 09
+
+Write a Python program to play the Game of Nim using an Object Oriented
+GUI program.
+
+What is Nim?
+
+Nim is a game with many variations. A simple version would be like this.
+
+There would be some objects: Sticks, coins, marbles, etc. We will call
+them counters.
+
+The game will start with some random number of counters between 20 and
+30. These counters can be though to be in a pile.
+
+The human player will play first and can take from 1 to 4 counters.
+
+Then the computer will take a random number of counters between 1 and 4.
+
+The player that takes the last counter LOSES!
+
+So for your game make a GUI which is titled NIM.
+
+It should have a Label which displays how many counters are in the pile.
+
+Then there should be an Entry where the human can put a number between 1
+and 4 and a button labelled "Play". The entry can can say something like
+Enter a number between 1 and 4
+
+The human player will type in how many counters he or she wished to take
+and then press the Play button.
+
+Use try and except to catch the error is the player types in something
+that isn't an number. Just clear the entry back to the original text.
+
+When the Play button is pressed a method should be called which will
+check to make sire that player move is legal and if so it will subtract
+the counters and check to see if the player has lost. If he or she has
+then it can open up another window that says "You Lose"
+
+If the game is not over then the computer player will pick a random
+number between 1 and 4 and subtract that from the number of counters. If
+the number of counters is negative or zero a window should open and say,
+"You Win"
+
+If the game is still on then the window will be updated to show the
+correct situation and allow the human to make another move.
+
+Since this is a practice quiz and it is just to help you prepare if your
+game does what is above that is fine. You don't need to worry about
+starting a next game.
+
+
+
+

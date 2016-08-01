@@ -1,0 +1,15 @@
+CS2316 Fall 2015 Practice Quiz 4
+
+1. Write a function called reverseList that will in one parameter which
+will be a list. The function will reverse the list using a for loop and
+return the new reversed list. You function should create a new list
+and not change the original list.
+
+2. Write a function sumList which will sum up the members of a list of
+numbers (without using the sum function.) The list to be summed will be
+passed into the function as a parameter.
+
+3. Write a function called mergeLists which will take in two lists as
+parameters. The function will make a new list which contains all the
+members of the two lists passed in and will be sorted in ascendng
+order.

@@ -1,0 +1,23 @@
+CS2316 Fall 2015 Practice Quiz 8
+
+1P. When coding a binary tree what is the purpose of the Node class?
+
+
+
+    Write a compare method for a Node class that will hold ints. It will take in 
+    self and a reference to another Node. It will compare the ints in each node
+    and return a positive number if the number in the node is greater than the int
+    in the other node, a zero if they both contain the same number and a negative
+    number of the other node contains a bigger int than the node.
+    
+    
+    
+2P. Write a function that will traverse a binary tree given a reference to the root.
+    It should print out the data in each node.
+    
+    
+    
+    
+3P. Write a function that will insert an int into the tree.    
+        
+

@@ -1,0 +1,53 @@
+CS2316 Fall 2015 Practice Quiz 2
+
+1. Here are the rules for leap year:
+
+	A year is a leap year if it is evenly divisible by 4.
+	Exception: Years evenly divisible by 100 are not leap years.
+	Exception: Years evenly divisible by 400 are leap years.
+	
+	Write a Python function that will take in a year as a parameter and
+	will apply the above rules to return True if the year passed in was
+	a leap year and False if not.
+	
+2. Write a function called isConsonant which will take in a single
+   character as a parameter and will return True if it is a consonant
+   and False if not. Note: It must work with both upper and lower case
+   letters!
+	
+3. In class we talked about the made up language of Pig Latin. You might
+   be surprised to learn that there are other such languages. One is
+   called Double Dutch. Here is how it works:
+
+	Vowels remain unchanged. Consonants are doubled and have a u
+	inserted between them.
+	
+	So Bill become Bubilullul.
+	Car becomes Cucarur.
+	Dog becomes Dudogug
+	School becomes Suscuchuhoolul
+	
+	Write a function that will take in a string as a parameter and will
+	convert it into Double Dutch. Note: The string may contain multiple
+	words, spaces, punctuation, etc. That should all be left alone. Only
+	convert letters per the rules.
+	
+4. 	Write a function in Python that will take in 3 numbers as
+    parameters. The function will return the maximum number. Note: You
+    may not use the max function. You must use if-elif-else staements.
+    
+    
+5.  What prints?
+
+	for x in range(1, 21, 4):
+	  print(x)
+	  
+	
+	for x in range(-6, -22, -3):
+	  print(x)
+	  
+	  
+	for x in range(1, 10, -1):
+	  print(x)    
+
+
