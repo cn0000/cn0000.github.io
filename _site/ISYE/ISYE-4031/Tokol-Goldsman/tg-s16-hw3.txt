@@ -1,0 +1,9 @@
+4031 Regression and Forecasting Spring 16 
+Homework 3
+Due February 3, 2016 
+
+1. Exercise 3.11, page 127.
+
+2. Exercise 3.18, pages 128-131 (note that the questions are on page 128). 
+
+3. Exercise 3.22, pages 130, 131. Skip part (e).

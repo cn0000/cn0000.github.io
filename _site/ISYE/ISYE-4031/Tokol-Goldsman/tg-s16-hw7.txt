@@ -1,0 +1,9 @@
+SyE 4031 Regression and Forecasting
+Homework 7
+Due March 30, 2016
+
+Please solve the following exercises from the text book.
+
+1. Exercise 6.3, page 318.
+2. Exercise 6.5, page 321.
+3. Exercise 6.6, pages 321-324.

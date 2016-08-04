@@ -1,0 +1,10 @@
+ISyE4031 Regression and Forecasting
+Homework 6
+Due March 9, 2016
+
+Please solve the following exercises from the text book.
+1. Exercise 4.22, pages 214-216. 
+2. Exercise 5.1, pages 261-263.
+3. Exercise 5.5, pages 266, 267.
+4. Exercise 5.9, page 268.
+5. Exercise 5.10, pages 268 and 270.
