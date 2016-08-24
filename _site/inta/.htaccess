@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Enter Details"
+AuthUserfile /Users/chrystelle/Desktop/cn0000.github.io/inta/.htmyxyz.txt
+require valid-user
