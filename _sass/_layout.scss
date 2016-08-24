@@ -2,8 +2,7 @@
  * Site header
  */
 .site-header {
-    border: 5px solid #bfbfbf;
-   // border-bottom: 1px solid #bfbfbf;
+    border: 1px solid #bfbfbf;
     min-height: 56px;
     color:#000066 ; 
 
@@ -72,6 +71,7 @@ ul {
   list-style-type: none; }
 .site-title {
     font-size: 20px;
+    text-align: center;
     font-weight: 300;
     line-height: 56px;
     letter-spacing: -1px;
@@ -158,11 +158,10 @@ ul {
  * Site footer
  */
 .site-footer {
-    border: 5px solid #bfbfbf;
+    border: 1px solid #bfbfbf;
     min-height: 56px;
     color:#000066 ; 
     padding: $spacing-unit 0;
-    border-radius: 10px;
 }
 
 .footer-heading {
@@ -236,7 +235,7 @@ ul {
 
 .page-heading {
     font-size: 26px;
-    font-family:  Palatino Linotype , Book Antiqua, Palatino, serif; 
+    font-family:  Impact, Charcoal,sans-serif; 
 }
 
 .post-list {
